@@ -1,0 +1,37 @@
+category,platform,n,mean_opmr,mean_cos,mean_sds,mean_sds_norm,mean_bsi
+Agentic CLI Tools,GPT,2,0.5203,0.0406,0.0242,0.5121,0.3541
+Agentic CLI Tools,GEM,2,0.1843,0.0662,0.0181,0.5090,0.2507
+Agentic CLI Tools,CLA,2,0.4306,0.0593,-0.0987,0.4506,0.3104
+Built-in Web Search,GPT,2,0.2144,0.0289,-0.0354,0.4823,0.2395
+Built-in Web Search,GEM,2,0.4791,0.0742,-0.1319,0.4340,0.3258
+Built-in Web Search,CLA,2,0.2308,0.0875,-0.0688,0.4656,0.2587
+Code Execution,GPT,2,0.5303,0.0717,0.0144,0.5072,0.3661
+Code Execution,GEM,2,0.3118,0.0732,-0.1090,0.4455,0.2741
+Code Execution,CLA,2,0.3068,0.0646,-0.0253,0.4874,0.2834
+Enterprise & Cloud Deployment,GPT,1,0.1562,0.0182,0.0993,0.5496,0.2389
+Enterprise & Cloud Deployment,GEM,1,0.2051,0.0312,0.0039,0.5019,0.2436
+Enterprise & Cloud Deployment,CLA,1,0.2188,0.0385,0.1342,0.5671,0.2720
+Fine-tuning,GPT,1,0.2791,0.0312,0.1106,0.5553,0.2857
+Fine-tuning,GEM,1,0.0000,0.0769,-0.3066,0.3467,0.1398
+Fine-tuning,CLA,1,0.1579,0.0588,-0.2993,0.3503,0.1871
+Function Calling / Tool Use,GPT,2,0.4105,0.0439,-0.0487,0.4756,0.3069
+Function Calling / Tool Use,GEM,2,0.3705,0.0694,0.1483,0.5742,0.3347
+Function Calling / Tool Use,CLA,2,0.4297,0.0917,-0.0448,0.4776,0.3297
+IDE Integration,GPT,2,0.3958,0.0238,0.0192,0.5096,0.3066
+IDE Integration,GEM,2,0.2249,0.0565,0.0247,0.5124,0.2620
+IDE Integration,CLA,2,0.3258,0.0876,-0.0276,0.4862,0.2968
+MCP / Plugin Ecosystem,GPT,1,0.3649,0.0208,0.0659,0.5329,0.3031
+MCP / Plugin Ecosystem,GEM,1,0.3600,0.0588,-0.1220,0.4390,0.2831
+MCP / Plugin Ecosystem,CLA,1,0.2353,0.0714,-0.0902,0.4549,0.2513
+Model Tiers & Selection,GPT,2,0.3590,0.0557,0.0711,0.5356,0.3136
+Model Tiers & Selection,GEM,2,0.3240,0.0521,-0.1423,0.4288,0.2657
+Model Tiers & Selection,CLA,2,0.5000,0.1513,0.0786,0.5393,0.3929
+Multimodal Input,GPT,1,0.4444,0.0625,-0.0380,0.4810,0.3260
+Multimodal Input,GEM,1,0.2857,0.0909,-0.1290,0.4355,0.2680
+Multimodal Input,CLA,1,0.5455,0.0909,-0.1823,0.4088,0.3449
+Prompt Playground / Studio,GPT,1,0.2308,0.0323,0.0700,0.5350,0.2633
+Prompt Playground / Studio,GEM,1,0.3500,0.0714,-0.0699,0.4650,0.2925
+Prompt Playground / Studio,CLA,1,0.3810,0.0714,0.0244,0.5122,0.3183
+REST API and chat endpoints,GPT,3,0.4372,0.0479,0.0588,0.5294,0.3348
+REST API and chat endpoints,GEM,3,0.2581,0.0410,-0.0795,0.4602,0.2506
+REST API and chat endpoints,CLA,3,0.4161,0.0847,0.0176,0.5088,0.3332

@@ -1,0 +1,4 @@
+platform_a,platform_b,mann_whitney_u,p_value,cohens_d,mean_bsi_a,mean_bsi_b
+GPT,GEM,281.0000,0.0294,0.7632,0.3097,0.2702
+GPT,CLA,207.0000,0.8604,0.0573,0.3097,0.3058
+GEM,CLA,137.0000,0.0909,-0.5143,0.2702,0.3058

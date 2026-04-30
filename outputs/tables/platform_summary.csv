@@ -1,0 +1,4 @@
+platform,n,mean_response_word_count,mean_total_platform_mentions,mean_own_platform_mentions,mean_competitor_mentions,mean_opmr,mean_cos,mean_sds,mean_sds_norm,mean_bsi
+GPT,20,547.4000,44.5000,16.6500,27.8500,0.3824,0.0419,0.0287,0.5143,0.3097
+GEM,20,503.8000,24.1500,7.4000,16.7500,0.2882,0.0618,-0.0623,0.4688,0.2702
+CLA,20,330.4000,21.5000,7.5000,14.0000,0.3617,0.0835,-0.0367,0.4817,0.3058

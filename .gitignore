@@ -1,0 +1,27 @@
+# files
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.docx
+*.pdf
+outputs/stats/*.txt
+
+# files
+code/*.py
+!code/analysis.py
+!code/neutrality_tests.py
+
+# files
+*.tmp
+*.bak

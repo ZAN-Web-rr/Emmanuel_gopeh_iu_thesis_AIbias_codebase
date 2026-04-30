@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="664" viewBox="0 0 700 664">
+<rect width="100%" height="100%" fill="#fffaf3"/>
+<text x="350.0" y="38" font-size="24" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Mean BSI by Category and Platform</text>
+<text x="310.0" y="72" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">GPT</text>
+<text x="450.0" y="72" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">GEM</text>
+<text x="590.0" y="72" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">CLA</text>
+<text x="226" y="117" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Agentic CLI Tools</text>
+<rect x="240" y="90" width="140" height="42" fill="rgb(234, 176, 182)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="116" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.354</text>
+<rect x="380" y="90" width="140" height="42" fill="rgb(235, 195, 200)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="116" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.251</text>
+<rect x="520" y="90" width="140" height="42" fill="rgb(234, 184, 189)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="116" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.310</text>
+<text x="226" y="159" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Built-in Web Search</text>
+<rect x="240" y="132" width="140" height="42" fill="rgb(235, 197, 202)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="158" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.239</text>
+<rect x="380" y="132" width="140" height="42" fill="rgb(234, 181, 187)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="158" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.326</text>
+<rect x="520" y="132" width="140" height="42" fill="rgb(235, 194, 198)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="158" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.259</text>
+<text x="226" y="201" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Code Execution</text>
+<rect x="240" y="174" width="140" height="42" fill="rgb(234, 174, 180)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="200" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.366</text>
+<rect x="380" y="174" width="140" height="42" fill="rgb(235, 191, 196)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="200" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.274</text>
+<rect x="520" y="174" width="140" height="42" fill="rgb(235, 189, 194)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="200" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.283</text>
+<text x="226" y="243" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Enterprise &amp; Cloud Deployment</text>
+<rect x="240" y="216" width="140" height="42" fill="rgb(235, 197, 202)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="242" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.239</text>
+<rect x="380" y="216" width="140" height="42" fill="rgb(235, 196, 201)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="242" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.244</text>
+<rect x="520" y="216" width="140" height="42" fill="rgb(235, 191, 196)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="242" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.272</text>
+<text x="226" y="285" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Fine-tuning</text>
+<rect x="240" y="258" width="140" height="42" fill="rgb(235, 189, 194)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="284" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.286</text>
+<rect x="380" y="258" width="140" height="42" fill="rgb(236, 216, 219)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="284" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.140</text>
+<rect x="520" y="258" width="140" height="42" fill="rgb(235, 207, 211)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="284" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.187</text>
+<text x="226" y="327" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Function Calling / Tool Use</text>
+<rect x="240" y="300" width="140" height="42" fill="rgb(234, 185, 190)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="326" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.307</text>
+<rect x="380" y="300" width="140" height="42" fill="rgb(234, 180, 185)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="326" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.335</text>
+<rect x="520" y="300" width="140" height="42" fill="rgb(234, 181, 186)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="326" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.330</text>
+<text x="226" y="369" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">IDE Integration</text>
+<rect x="240" y="342" width="140" height="42" fill="rgb(234, 185, 190)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="368" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.307</text>
+<rect x="380" y="342" width="140" height="42" fill="rgb(235, 193, 198)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="368" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.262</text>
+<rect x="520" y="342" width="140" height="42" fill="rgb(234, 187, 192)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="368" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.297</text>
+<text x="226" y="411" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">MCP / Plugin Ecosystem</text>
+<rect x="240" y="384" width="140" height="42" fill="rgb(234, 185, 191)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="410" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.303</text>
+<rect x="380" y="384" width="140" height="42" fill="rgb(235, 189, 194)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="410" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.283</text>
+<rect x="520" y="384" width="140" height="42" fill="rgb(235, 195, 200)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="410" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.251</text>
+<text x="226" y="453" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Model Tiers &amp; Selection</text>
+<rect x="240" y="426" width="140" height="42" fill="rgb(234, 183, 189)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="452" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.314</text>
+<rect x="380" y="426" width="140" height="42" fill="rgb(235, 192, 197)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="452" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.266</text>
+<rect x="520" y="426" width="140" height="42" fill="rgb(234, 169, 175)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="452" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.393</text>
+<text x="226" y="495" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Multimodal Input</text>
+<rect x="240" y="468" width="140" height="42" fill="rgb(234, 181, 187)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="494" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.326</text>
+<rect x="380" y="468" width="140" height="42" fill="rgb(235, 192, 197)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="494" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.268</text>
+<rect x="520" y="468" width="140" height="42" fill="rgb(234, 178, 183)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="494" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.345</text>
+<text x="226" y="537" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">Prompt Playground / Studio</text>
+<rect x="240" y="510" width="140" height="42" fill="rgb(235, 193, 198)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="536" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.263</text>
+<rect x="380" y="510" width="140" height="42" fill="rgb(234, 187, 193)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="536" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.293</text>
+<rect x="520" y="510" width="140" height="42" fill="rgb(234, 183, 188)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="536" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.318</text>
+<text x="226" y="579" font-size="13" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">REST API and chat endpoints</text>
+<rect x="240" y="552" width="140" height="42" fill="rgb(234, 180, 185)" stroke="#ffffff" stroke-width="2"/>
+<text x="310.0" y="578" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.335</text>
+<rect x="380" y="552" width="140" height="42" fill="rgb(235, 195, 200)" stroke="#ffffff" stroke-width="2"/>
+<text x="450.0" y="578" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.251</text>
+<rect x="520" y="552" width="140" height="42" fill="rgb(234, 180, 186)" stroke="#ffffff" stroke-width="2"/>
+<text x="590.0" y="578" font-size="13" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#1f2933">0.333</text>
+</svg>
